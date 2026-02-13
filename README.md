@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on **the intersection of robotics, 3D vision.**
 
-- 🌱 I'm currently learning **Embodied AI**
+- 🌱 I'm currently learning **Embodied AI,focus especially on World Model, Real2sim2real and VLA.**
 
 - 📫 How to reach me **xuweichen0501acg@gmail.com**
 
