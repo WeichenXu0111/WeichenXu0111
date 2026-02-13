@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently learning **Embodied AI**
 
-- 📫 How to reach me **xuweichen0501acg@gamil.com**
+- 📫 How to reach me **xuweichen0501acg@gmail.com**
 
 - 📝 I regularly write articles on **[https://github.com/settings/profile](https://github.com/settings/profile)**
 
