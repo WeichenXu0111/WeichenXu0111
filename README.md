@@ -2,7 +2,7 @@
 
 ### A third-year undergraduate student majoring in Computer Science at Beijing Institute of Technology(BIT), currently on an exchange at the Hong Kong University of Science and Technology(HKUST).
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=WeichenXu0111&label=Profile views&color=0e75b6&style=flat" alt="WeichenXu0111" /> </p>
+
 
 - 🔭 I'm currently working on **the intersection of robotics, 3D vision.**
 
