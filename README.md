@@ -1,12 +1,9 @@
 # Hi 👋, I'm Weichen Xu
 
-### A third-year undergraduate student majoring in Computer Science at Beijing Institute of Technology(BIT), currently on an exchange at the Hong Kong University of Science and Technology(HKUST).
-
+### A third-year undergraduate student majoring in Computer Science at Beijing Institute of Technology(BIT), I was on an exchange at HKUST in Spring 2026.
 
 
 - 🔭 I'm currently working on **the intersection of robotics, 3D vision.**
-
-- 🌱 I'm currently learning **Embodied AI,focus especially on World Model, Real2sim2real and VLA.**
 
 - 📫 How to reach me **xuweichen0501acg@gmail.com**
 
